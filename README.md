@@ -1,1 +1,3 @@
 # MyFirstLanding
+
+vless://d0c7d869-b70f-4b46-9f8d-ebc1e33e45e7@176.222.52.112:443?type=tcp&encryption=none&security=reality&pbk=QRNBxhqD9SX1_SiP4udYVVxtY4fCfzeH2GjhRE8aGl0&fp=chrome&sni=www.microsoft.com&sid=c66210ff0fcf2c&spx=%2F&flow=xtls-rprx-vision#%D0%98%D1%80%D0%B8%D1%88%D0%B0%20%D0%B8%20%D0%98%D0%BB%D1%8E%D1%88%D0%B0
